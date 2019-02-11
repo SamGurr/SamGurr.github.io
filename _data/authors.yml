@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  name        : "Samuel J Gurr"
+  uri         : "https://SamJGurr.github.io"
+  email       : "samjgurr@gmail.com"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  research_gate : "https://www.researchgate.net/profile/Samuel_Gurr"
+  google_scholar : "https://scholar.google.com/citations?user=fBPOor0AAAAJ&hl=en&oi=sra"
 
 Name2 Name2:
   name        : "Name2 Name2"

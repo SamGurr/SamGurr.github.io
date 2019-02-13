@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sam J Gurr"
+  name             : "Samuel J. Gurr"
   avatar           : "me_pt_whitney.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location here"
-  employer         :
+  bio              : "PhD student researching Pacific geoduck ecophysiology and molecular responses to envrionmental challenges. Check out mt site for current and past work!"
+  location         : "Research station: Brinnon, WA; Office: University of Rhode Island"
+  employer         : University of Rhode Island
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4"
-  email            :
+  email            : samjgurr@gmail.com
   researchgate     :   "https://www.researchgate.net/profile/Samuel_Gurr?ev=hdr_xprf&_sg=vuA9_ghvIv2FwsdkSFdS9gKod1iQGW9I50oIGdSZ87m3y3OKa3P84dKUARsJ9RfWTHtKK3v9d3vUzAfk2VQvr7sx"
   uri              :
   bitbucket        :

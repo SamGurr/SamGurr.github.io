@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Marine Biology; Minor Chemistry (Cum Laude), University of New Haven 2014
-Bahcelor Thesis: Arm regeneration of Asterias forbesi under hypoxic conditions
+* B.Sc. in Marine Biology; Minor Chemistry (Cum Laude), University of New Haven, 2014
+  * Bahcelor Thesis: Arm regeneration of Asterias forbesi under hypoxic conditions
 * M.Sc. in Marine Science, Stony Brook Universtiy, 2017
-Master's Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of Argopecten irradians
+  * Master's Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of Argopecten irradians
 * Ph.D in Evolution and Marine Biology, University of Rhode Island, 2022 (expected)
 
 Experience

@@ -20,7 +20,8 @@ If you would like to find more information about the Putnam Laboratory at the Un
 
 ### Contact me
 ------
-[samuel_gurr@uri.edu](mailto:samuel_gurr@uri.edu)<center>
+[gmail](mailto:samjgurr@gmail.com)<center>
+[URI academic email](mailto:samuel_gurr@uri.edu)<center>
 
 ## <center>Samuel J. Gurr</center>
 <center>PhD Student, Evolution and Marine Biology </center>

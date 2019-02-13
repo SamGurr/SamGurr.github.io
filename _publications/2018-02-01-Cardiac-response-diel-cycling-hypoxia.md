@@ -1,7 +1,7 @@
 ---
 title: "Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia"
 collection: publications
-permalink: /publication/2018-02-01-Cardiac-responses-of-the-bay-scallop-Argopecten-irradians-to-diel-cycling-hypoxia
+permalink: /Publication/2018-02-01-Cardiac-responses-of-the-bay-scallop-Argopecten-irradians-to-diel-cycling-hypoxia
 excerpt: 'This paper is a ecophysiological study on cardiac and respiratory responses of the Atlantic bay scallop (<i>Aropecten irraidians<i>) under both in-situ diel-cycling cycling_hypoxia and laboratory challenges.'
 date: 2008-02-01
 venue: ' Journal of Experimental Marine Biology and Ecology'

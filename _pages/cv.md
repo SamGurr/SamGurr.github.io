@@ -17,15 +17,9 @@ Bahcelor Thesis: Arm regeneration of Asterias forbesi under hypoxic conditions
 Master's Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of Argopecten irradians
 * Ph.D in Evolution and Marine Biology, University of Rhode Island, 2022 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-EXPERIENCE
-======
-Professional Employment:
+PROFESSIONAL EMPLOYMENT:
 * 2017 – present: Marine Science Consultant, NY, NY
   *	Provide scientific interpretation and expertise in biological oceanography to improve proposals, write progress reports, and organize construction plans on an architectural project in the Hudson River of Lower Manhattan
   *	Hire and train a technician to prototype and test experiments and deliverables
@@ -35,7 +29,7 @@ Professional Employment:
   *	Measure ecosystem status with shellfish biosensors – design and complete several independent experiments on the physiological response of blue mussels
   *	Write conclusions in an Autodesk publication – translate data in context of IoT (internet of things) for monitoring water quality in an urban system
 
-Research Experience:
+RESEARCH:
 * 2015 – 2017: Research Assistant (Master’s Thesis) – Stony Brook University, Stony Brook, NY
   *	Thesis title: “Effects of diel-cycling hypoxia to cardiac activity and growth of   Argopecten irradians” – Advisors: Nils Volkenborn, Chris Gobler, and Robert Cerrato
   *	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges

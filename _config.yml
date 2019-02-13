@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam J Gurr / Site Title"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Sam J Gurr"
 description              : &description "personal description"

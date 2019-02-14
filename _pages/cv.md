@@ -44,24 +44,6 @@ RESEARCH:
 * 2012: Undergrad. Research Fellow – NOAA Northeast Fisheries Science Center, Milford, CT
   *	Project title: “The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii” (PI: Roman Zajak)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Education and Outreach; Employment and Volunteer:
 ======
 * 2017: Professional Assistant (laboratory) – Suffolk County Community College, Selden, NY
@@ -80,3 +62,21 @@ Education and Outreach; Employment and Volunteer:
   * Graduate Student Committee, 2016 –  2017 – Stony Brook University, Stony Brook, NY
   * Science Fair Judge, 23 April, 2017   – Lighting Foundation Invitational Science Fair, Manhassst, NY
   * Educator, 24 Sept, 2016    – NYC Submerge! Marine Science Festival, Pier 27, NY
+
+Publications
+======
+    <ul>{% for post in site.publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+
+Talks
+======
+    <ul>{% for post in site.talks %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
+
+Teaching
+======
+    <ul>{% for post in site.teaching %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>

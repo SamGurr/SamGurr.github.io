@@ -1,5 +1,5 @@
 ---
-title: "Cardiac response diel cycling hypoxia"
+title: "Cardiac response of bay scallops under diel cycling hypoxia"
 collection: publications
 permalink: /publications/2018-02-01-Cardiac-response-diel-cycling-hypoxia
 excerpt: 'This paper is a ecophysiological study on cardiac and respiratory responses of the Atlantic bay scallop (Aropecten irraidians) under both in-situ diel-cycling cycling hypoxia and laboratory challenges.'

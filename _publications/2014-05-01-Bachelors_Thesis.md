@@ -6,7 +6,7 @@ excerpt: 'Short-term challenges on the regneration rate of autotomized Forbes' s
 date: 2014-05-01
 venue: 'University of New Haven'
 paperurl: 'http://SamGurr.github.io/files/Bachelors_Thesis.pdf'
-citation: ''
+citation: 'na'
 
 ---
 

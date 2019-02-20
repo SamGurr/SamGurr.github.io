@@ -2,7 +2,7 @@
 title: "Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia"
 collection: publications
 permalink: /publications/2018-02-01-Cardiac-response-diel-cycling-hypoxia
-excerpt: 'This paper is a ecophysiological study on cardiac and respiratory responses of the Atlantic bay scallop (Argopecten irraidians) under both in-situ diel-cycling cycling hypoxia and laboratory challenges.'
+excerpt: 'This paper is a ecophysiological study on cardiac and respiratory responses of the Atlantic bay scallop (Argopecten irraidians) under both in-situ diel-cycling cycling hypoxia and laboratory challenges. Findings conclude with a conceptual model on the oxyregulatory and oxyconformity response to diel-cycling hypoxia as a summation of in-situ cardiac response, decoupled metabolic/cardaic response to laboratory challenges, and biohemical implications from literature review'
 date: 2018-02-01
 venue: 'Journal of Experimental Marine Biology and Ecology'
 paperurl: 'http://SamGurr.github.io/files/JEMBE_2018.pdf'

@@ -8,10 +8,10 @@ venue: 'Nexcelom LLC'
 paperurl: 'http://SamGurr.github.io/files/Gurr.et.al_Nexcelom_AppNote.pdf'
 citation: 'Gurr, S.J., Rollando, C., Chan, L.L., Vadopalas, B., Putnam, H.M., Roberts, S., 2018. Alternative image-
 based technique for phytoplankton cell counts in shellfish aquaculture. Cellometer Applications, Nexcelom Bioscience LLC.'
-'
+
 ---
 
 [Download paper here](http://SamGurr.github.io/files/Gurr.et.al_Nexcelom_AppNote.pdf)
 
-Gurr, S.J., Rollando, C., Chan, L.L., Vadopalas, B., Putnam, H.M., Roberts, S., 2018. Alternative image-
+Citation: Gurr, S.J., Rollando, C., Chan, L.L., Vadopalas, B., Putnam, H.M., Roberts, S., 2018. Alternative image-
 based technique for phytoplankton cell counts in shellfish aquaculture. Cellometer Applications, Nexcelom Bioscience LLC.

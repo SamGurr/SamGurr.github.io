@@ -1,5 +1,5 @@
 ---
-title: "Alternative image-based technique for phytoplankton cell counts in shellfish aquaculture"
+title: "Application Note: Alternative image-based technique for phytoplankton cell counts in shellfish aquaculture"
 collection: publications
 permalink: /publications/2018-12-01-Nexcelom_AppNote
 excerpt: 'Experiments in summer 2018 required daily algae counts to calculate a continuous and accurate diet for rearing juvenile geoduck (Panopea generosa). This app note was written for the Nexcelom Cellometer, an instrument that uses bright-field images to count cells - I used the Cellometer to count large algae batch cultures daily for a continuous mixed-algae diet. To the best of my knowledge, this was the first use of the Cellometer was  in a sustainable shellfish hatchery.'

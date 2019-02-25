@@ -6,7 +6,7 @@ excerpt: 'Short-term challenges on the regneration rate of autotomized Forbes' s
 date: 2014-05-01
 venue: 'University of New Haven'
 paperurl: 'http://SamGurr.github.io/files/Bachelors_Thesis.pdf'
-citation: 'Gurr, S.J. Arm regeneration of Asterias forbesi in hypoxic conditions. University of New Haven (Bachelor's Thesis - NOT a real citation), 2014.'
+
 
 ---
 

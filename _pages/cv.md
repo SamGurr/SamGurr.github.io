@@ -34,7 +34,7 @@ RESEARCH:
   * Project title: Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture; funded by FFAR
   * Conduct research at Point Whitney Shellfish Hatchery (Brinnon, WA); design and complete experiments on environmental priming for advancement of shellfish production – use a network of responses (physiology, metabolism, and genetics) to assess effects of long-term, transgenerational, and repeated exposures to acidification on Pacific geoduck. Advisor: Hollie Putnam, CO-PIs: S. Roberts and B. Vadopalas
 * 2015 – 2017: Research Assistant (Master’s Thesis) – Stony Brook University, Stony Brook, NY
-  *	Thesis title: “Effects of diel-cycling hypoxia to cardiac activity and growth of   Argopecten irradians” – Advisors: Nils Volkenborn, Chris Gobler, and Robert Cerrato
+  *	Thesis title: “Effects of diel-cycling hypoxia to cardiac activity and growth of   Argopecten irradians” – Advisor: Nils Volkenborn; Committee: Chris Gobler and Robert Cerrato
   *	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges
   *	Create a conceptual model on in-situ cardiac activity to better understand respiratory and anaerobic inferences under exposure to dynamic environmental stressors
 * 2016: Long Island Water Quality Monitoring – Stony Brook University, Stony Brook, NY

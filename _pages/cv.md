@@ -66,7 +66,7 @@ Education and Outreach; Employment and Volunteer:
   * Science Fair Judge, 23 April, 2017   – Lighting Foundation Invitational Science Fair, Manhassst, NY
   * Educator, 24 Sept, 2016    – NYC Submerge! Marine Science Festival, Pier 27, NY
 
-Publications
+<!-- Publications
 ======
     <ul>{% for post in site.publications %}
       {% include archive-single-cv.html %}
@@ -82,4 +82,4 @@ Teaching
 ======
     <ul>{% for post in site.teaching %}
       {% include archive-single-cv.html %}
-    {% endfor %}</ul>
+    {% endfor %}</ul> -->

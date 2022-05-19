@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bio"
 title_separator          : "-"
-name                     : &name "Sam J Gurr"
+name                     : &name "Samuel J Gurr"
 description              : &description "personal description"
 url                      : https://samgurr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel J. Gurr"
-  avatar           : "me_pt_whitney.jpg"
-  bio              : "PhD student researching Pacific geoduck ecophysiology and molecular responses to envrionmental challenges. Check out my site for current and past work!"
-  location         : "Research station: Brinnon, WA"
-  employer         : University of Rhode Island
+  name             : "Samuel J. Gurr (PhD)"
+  avatar           : "Gurr_photo.png"
+  bio              : "Postdoctoral Research Associate - (NOAA Affiliate & NRC Research Associateshiop Fellow)"
+  location         : "Research station: NEFSC Milford Lab, Milford, CT"
+  employer         : National Research Council
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4"
-  email            : samjgurr@gmail.com
-  researchgate     :   "https://www.researchgate.net/profile/Samuel_Gurr?ev=hdr_xprf&_sg=vuA9_ghvIv2FwsdkSFdS9gKod1iQGW9I50oIGdSZ87m3y3OKa3P84dKUARsJ9RfWTHtKK3v9d3vUzAfk2VQvr7sx"
+  email            : samuel.gurr@noaa.gov / samjgurr@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Samuel_Gurr?ev=hdr_xprf&_sg=vuA9_ghvIv2FwsdkSFdS9gKod1iQGW9I50oIGdSZ87m3y3OKa3P84dKUARsJ9RfWTHtKK3v9d3vUzAfk2VQvr7sx"
   uri              :
   bitbucket        :
   codepen          :

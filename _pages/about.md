@@ -22,9 +22,9 @@ If you would like to find more information about the Putnam Laboratory at the Un
 ------
 [gmail](mailto:samjgurr@gmail.com)<center>
 
-## <center>Samuel J. Gurr</center>
-<center>PhD Student, Evolution and Marine Biology </center>
-<center>College of Environment and Life Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
-<center>samuel_gurr@uri.edu<center>
+## <center>Samuel J. Gurr (PhD)</center>
+<center>Postdoctoral Research Fellow (NRC) / NOAA Affiliate</center>
+<center>NOAA Northeast Fisheries Science Center (NEFSC)</center>
+<center>212 Rogers Ave, Milford, CT</center>
+<center>samuel.gurr@noaa.gov<center>
+<center>samjgurr@gmail.com<center>

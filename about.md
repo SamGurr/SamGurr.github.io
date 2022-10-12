@@ -11,6 +11,8 @@ Here you will find a hodgepodge of ideas, analysis, detours/roadblocks, and few 
 
 I strive to maintain data transparency and reproducibility in my scientific endeavors - this page is platformed in GitHub, providing a more detailed view in real-time documents complimentary to linked data and analytical repositories on my GithHub: {% include icon-github.html username="samgurr" %}
 
+---
+
 Listed below are few expected materials in my notebook
 
 - **Logged data, sample processing, and SOPs**
@@ -30,6 +32,8 @@ Listed below are few expected materials in my notebook
 		* and more.. (i.e. primer design, python, augustus, etc.)
 	* R tips, tricks, and RShiny
   * *..a work in progress*, bioinformatics takes a large chunk of my time and the many rabbit holes and roadblocks are not well documented here.. yet!
+
+---
 
 **Theme credit**: This notebook is built with Jekyll & forked from Michael Rose https://github.com/mmistakes and improved with edited material from a variety of online lab notebook layouts. Thanks to all.
 You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)

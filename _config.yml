@@ -29,9 +29,9 @@ author:
   name: Samuel J Gurr PhD
   picture: images/inverts_door.jpg # images/Sam_G.JPG
 description              : "Add description here!"
-url                      : "https://samgurr.github.io/SamJGurr_Lab_Notebook/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://samgurr.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /SamJGurr_Lab_Notebook # the subpath of your site, e.g. "/blog"
-repository               : "samgurr/samjgurr_lab_notebook" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "samgurr/samgurr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : assets/icons/nudibranch.svg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 github_username          : samgurr
 logo                     : images/nudibranch.svg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -39,8 +39,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 search: true # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -91,6 +91,13 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
+    values:
+      layout: post
+      read_time: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
     values:
       layout: post
       read_time: true

@@ -40,7 +40,7 @@ Summary...
 
    * *NOTE:* smaller individuals not included as fragility and size confounded accurate dissectoin and estimation of TDW
 
-![bfactor_log_plots](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/MetScaling_bfactor_plots.jpg "process")
+![bfactor_log_plots](https://samgurr.github.io/images/MetScaling_bfactor_plots.jpg "process")
 
   *there are two strong outliers, omitted them below..*
 
@@ -48,7 +48,7 @@ Summary...
 
 * we now have a consistent b factor for all data, omitting the outliers reduced the difference between pCO2 treatment
 
-![bfactor_log_plots_OM](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/MetScaling_bfactor_plots_OM.jpg "process")
+![bfactor_log_plots_OM](https://samgurr.github.io/images/MetScaling_bfactor_plots_OM.jpg "process")
 
 #### (3) Integrate and compare use of b factor
 
@@ -59,4 +59,4 @@ Summary...
 * bottom == boxplots for metabolic rates normalized allometrically (umol O2 L-1 hr-1 ^ bfactor)
 
 
-![bfactor_boxplots](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/MetScaling_bfactor_BoxPlots.jpg "process")
+![bfactor_boxplots](https://samgurr.github.io/images/MetScaling_bfactor_BoxPlots.jpg "process")

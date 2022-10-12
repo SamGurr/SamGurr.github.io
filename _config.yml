@@ -20,7 +20,8 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 # Site Settings
 lang                     : en-US
-title                    : "Samuel J Gurr's Lab Notebook"
+title                    : "Samuel J Gurr, PhD"
+subtitle                 : "sciencing n' sciencing"
 title_separator          : "-"
 email                    : "samuel.gurr@noaa.gov"
 subtitle                 : "a transparent hodgepodge of ideas, successes, and misteps" # site tagline that appears below site title in masthead

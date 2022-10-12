@@ -31,7 +31,7 @@ author:
   picture: images/inverts_door.jpg # images/Sam_G.JPG
 description              : "Add description here!"
 url                      : "https://samgurr.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /SamJGurr_Lab_Notebook # the subpath of your site, e.g. "/blog"
+baseurl                  : #/SamJGurr_Lab_Notebook # the subpath of your site, e.g. "/blog"
 repository               : "samgurr/samgurr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : assets/icons/nudibranch.svg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 github_username          : samgurr

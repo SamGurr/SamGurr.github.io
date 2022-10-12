@@ -13,13 +13,13 @@ I strive to maintain data transparency and reproducibility in my scientific ende
 
 Listed below are few expected materials in my notebook
 
-- **Thoughts and graphics/figures**
-	* "*~~a picture says 1..~~*" "*a well-designed figure provides 1000 takeaways messages*". Taking care to build eye-catching graphics for ideas, data, and results often catalyzes my motivation to write. I enjoy summarizing the complexities of my research down to an aesthetically pleasing and informative visual - happy to brainstorm data visualization!
-
-- **Benchwork and experimental SOPs**
+- **Logged data, sample processing, and SOPs**
 	* extractions / library prep / diagnostics
   * tissue homogenate / hemolymph assessments (i.e. spec and flow cy)
   * suite of physiological metrics - respirometry, biodeposition, clearance rate, etc.
+
+- **Data visualization**
+	* "*~~a picture says 1..~~*" "*a well-designed figure provides 1000 takeaways messages*". Taking care to build eye-catching graphics from experimental design to data interpretation often catalyzes my motivation to write. I enjoy summarizing the complexities of my research down to an aesthetically pleasing and informative product!
 
 - **Computational work**
 	* Full HPC  pipelines for transcriptomics and genomics projects:

@@ -8,4 +8,4 @@ image:
 
 # add info here!
 
-About the histology project
+About the histology project here

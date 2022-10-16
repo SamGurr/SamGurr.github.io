@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Samuel J. Gurr, PhD",
-    "label": "NRC Postdoctoral Research Fellow & NOAA Affiliate",
+    "label": "NRC Postdoctoral Research Associate & NOAA Affiliate",
     "picture": "",
     "email": "samjgurr@gmail.com",
     "website": "https://samgurr.github.io/about.html",
@@ -69,16 +69,12 @@
   ],
   "work": [
     {
-      "company": "The Whip",
+      "company": "NRC Postdoctoral Research Associate & NOAA Affiliate" ,
       "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "website": "https://www.fisheries.noaa.gov/contact/sam-gurr-phd",
+      "startDate": "2021-09-01",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
-      "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
-      ]
+      "summary": "Investigate underlying transcriptomic and genetic markers and affecting resiliance and phenotypic trajectory during early development and across multiple generations in commercially critical bivalves.",
     }
   ],
   "volunteer": [

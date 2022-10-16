@@ -9,7 +9,7 @@
       "address": "NOAA NEFSC Milford Lab, 212 Rogers Avenue",
       "postalCode": "CT 06460",
       "city": "Milford",
-      "countryCode": "US",
+      "countryCode": "USA",
       "region": "Connecticut"
     },
     "profiles": [
@@ -64,6 +64,7 @@
       "thesis": [
         "Thesis: Arm regeneration of *Asterias forbesi* under hypoxic conditions",
         "Advisor: Carmela Cuomo, PhD"
+      ]
     }
   ],
   "work": [

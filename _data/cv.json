@@ -4,8 +4,7 @@
     "label": "NRC Postdoctoral Research Fellow & NOAA Affiliate",
     "picture": "",
     "email": "samjgurr@gmail.com",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "website": "https://samgurr.github.io/about.html",
     "location": {
       "address": "NOAA NEFSC Milford Lab, 212 Rogers Avenue",
       "postalCode": "CT 06460",
@@ -26,41 +25,46 @@
       }
     ]
   },
-  "EDUCATION": [
+  "education": [
     {
-      "position": "DOCTOR OF PHOLOSOPHY",
+      "institution": "Doctor of Philosophy",
+      "area": "Biological and Environmental Science, Evolution and Marine Biology [Specialization]",
+      "studyType": "University of Rhode Island",
       "endDate": "2021",
-      "summary": "Biological and Environmental Science, Evolution and Marine Biology [Specialization]: University of Rhode Island (URI)",
-      "highlights": [
-        "Thesis: Stress conditioning to hypercapnic seawater in the Pacific geoduck *Panopea generosa*",
-        "Advisor: Hollie M Putnam, PhD"
-      ],
-      "profiles": [
-        {
-          "network": "Oral defense",
-          "username": "watch it on youtube!",
-          "url": "https://www.youtube.com/watch?v=ab0JbcDKH0o"
-        },
+      "gpa": "(URI)",
+      "thesis": [
+        "Stress conditioning to hypercapnic seawater in the Pacific geoduck *Panopea generosa*",
+        "Advisor: Hollie M Putnam, PhD",
+        "profiles": [
+            {
+              "network": "Oral defense:",
+              "username": "watch it on youtube!",
+              "url": "https://www.youtube.com/watch?v=ab0JbcDKH0o"
+            }
+        ]
       ]
     },
     {
-      "position": "MASTER OF SCIENCE",
-      "endDate": "2021",
-      "summary": "Marine Science: Stony Brook University (SBU)",
-      "highlights": [
+      "institution": "Msater of Science",
+      "area": "Marine Science",
+      "studyType": "Stony Brook University",
+      "endDate": "2018",
+      "gpa": "(SBU)",
+      "thesis": [
         "Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of *Argopecten irradians*",
         "Advisor: Nils Volkenborn, PhD"
       ]
     },
     {
-      "position": "BACHELOR OF SCIENCE ",
+      "institution": "Bachelor of Science",
+      "area": "Marine Biology; Chemistry [Minor]",
+      "studyType": "University of New Haven",
       "endDate": "2014",
-      "summary": "Marine Biology; Chemistry [Minor]: University of New Haven (UNH)",
-      "highlights": [
+      "gpa": "(UNH)",
+      "thesis": [
         "Thesis: Arm regeneration of *Asterias forbesi* under hypoxic conditions",
         "Advisor: Carmela Cuomo, PhD"
-      ]
-    },
+    }
   ],
   "work": [
     {

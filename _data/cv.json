@@ -90,20 +90,6 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Warble Pioneer Award",

@@ -1,32 +1,59 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
+    "name": "Samuel J. Gurr, PhD",
+    "label": # "NRC Postdoctoral Research Fellow & NOAA Affiliate",
     "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
+    "email": "samjgurr@gmail.com",
+    "phone": #,
     "website": "https://towlettepettetuc.ci",
     "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "NOAA NEFSC Milford Lab, 212 Rogers Avenue",
+      "postalCode": "CT 06460",
+      "city": "Milford",
       "countryCode": "US",
-      "region": "California"
+      "region": "Connecticut"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "network": "GitHub",
+        "username": "SamGurr",
+        "url": "https://github.com/SamGurr"
       },
       {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "Research gate",
+        "username": "SamGurr",
+        "url": "https://www.researchgate.net/profile/Samuel-Gurr?ev=hdr_xprf&_sg=n3DA9PHEG9_tHci5A1eT6du-yanabkWjEbGZGSzPDmnDZJFrggr4E0cWYdjphAGSEFQWVqcVd6OZLxGU3UiyJT2k"
       }
     ]
   },
+  "EDUCATION": [
+    {
+      "position": "DOCTOR OF PHOLOSOPHY",
+      "endDate": "2021",
+      "summary": "Biological and Environmental Science, Evolution and Marine Biology [Specialization], University of Rhode Island",
+      "highlights": [
+        "Thesis: Stress conditioning to hypercapnic seawater in the Pacific geoduck Panopea generosa",
+        "Advisor: Hollie M Putnam, PhD"
+      ],
+      "profiles": [
+        {
+          "network": "Oral defense",
+          "username": "watch it on youtube!",
+          "url": "https://www.youtube.com/watch?v=ab0JbcDKH0o"
+        },
+      ]
+    },
+    {
+      "position": "MASTER OF SCIENCE",
+      "endDate": "2021",
+      "summary": "Marine Science: Stony Brook University (SBU)",
+      "highlights": [
+        "Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of *Argopecten irradians*",
+        "Advisor: Nils Volkenborn"
+      ]
+    },
+  ],
   "work": [
     {
       "company": "The Whip",

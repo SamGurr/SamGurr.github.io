@@ -35,14 +35,14 @@
       "thesis": [
         "Stress conditioning to hypercapnic seawater in the Pacific geoduck *Panopea generosa*",
         "Advisor: Hollie M Putnam, PhD",
+        ],
         "profiles": [
-            {
+          {
               "network": "Oral defense:",
               "username": "watch it on youtube!",
               "url": "https://www.youtube.com/watch?v=ab0JbcDKH0o"
             }
         ]
-      ]
     },
     {
       "institution": "Msater of Science",
@@ -69,8 +69,8 @@
   ],
   "work": [
     {
-      "company": "NRC Postdoctoral Research Associate & NOAA Affiliate" ,
-      "position": "CEO/President",
+      "company": "NOAA Northeast Fisheries Science Center" ,
+      "position": "Postdoctoral Research Associate & NOAA Affiliate",
       "website": "https://www.fisheries.noaa.gov/contact/sam-gurr-phd",
       "startDate": "2021-09-01",
       "endDate": "",

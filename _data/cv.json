@@ -28,41 +28,29 @@
   "education": [
     {
       "institution": "Doctor of Philosophy",
-      "area": "Biological and Environmental Science, Evolution and Marine Biology [Specialization]",
-      "studyType": "University of Rhode Island",
+      "area": "Biological and Environmental Science, Evolution and Marine Biology [Specialization]: University of Rhode Island (URI)",
       "endDate": "2021",
-      "gpa": "(URI)",
       "thesis": [
         "Stress conditioning to hypercapnic seawater in the Pacific geoduck *Panopea generosa*",
-        "Advisor: Hollie M Putnam, PhD",
-        ],
-        "profiles": [
-          {
-              "network": "Oral defense:",
-              "username": "watch it on youtube!",
-              "url": "https://www.youtube.com/watch?v=ab0JbcDKH0o"
-            }
+        "Advisor: Hollie M Putnam, PhD"
         ]
     },
     {
-      "institution": "Msater of Science",
-      "area": "Marine Science",
-      "studyType": "Stony Brook University",
+      "institution": "Master of Science",
+      "area": "Marine Science: Stony Brook University (SBU)",
       "endDate": "2018",
-      "gpa": "(SBU)",
       "thesis": [
-        "Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of *Argopecten irradians*",
+        "Effects of diel-cycling hypoxia on cardiac activity and growth of *Argopecten irradians*",
         "Advisor: Nils Volkenborn, PhD"
       ]
     },
     {
       "institution": "Bachelor of Science",
-      "area": "Marine Biology; Chemistry [Minor]",
+      "area": "Marine Biology; Chemistry [Minor]: University of New Haven (UNH)",
       "studyType": "University of New Haven",
       "endDate": "2014",
-      "gpa": "(UNH)",
       "thesis": [
-        "Thesis: Arm regeneration of *Asterias forbesi* under hypoxic conditions",
+        "Arm regeneration of *Asterias forbesi* under hypoxic conditions",
         "Advisor: Carmela Cuomo, PhD"
       ]
     }

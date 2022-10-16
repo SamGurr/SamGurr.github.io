@@ -3,8 +3,9 @@ layout: post
 title: Oyster hemolymph flow cytometry cont..
 date: '2022-06-06'
 categories: Processing, Analysis
-tags: Crassostrea, oyster, OA, hemolymph, flow cytometry, C6 plus, BD biosciences
+tags: Crassostrea oyster OA hemolymph flow_cytometry, C6_plus
 ---
+
 
 ## <a name="About experiment"></a> **About experiment**:
 ---------

@@ -3,7 +3,7 @@ layout: post
 title: Hemolymph physiology flow cytometry protocol
 date: '2022-03-15'
 categories: protocol
-tags: hemolymph, C6 cytometter, oyster, JC-10, DCFHDA, SYBR green
+tags: hemolymph C6_plus oyster JC-10 DCFHDA SYBR_green
 ---
 
 # Hemocyte Physiology and Flow Cytometer Protocol

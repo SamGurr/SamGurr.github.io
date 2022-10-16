@@ -31,9 +31,9 @@
     {
       "position": "DOCTOR OF PHOLOSOPHY",
       "endDate": "2021",
-      "summary": "Biological and Environmental Science, Evolution and Marine Biology [Specialization], University of Rhode Island",
+      "summary": "Biological and Environmental Science, Evolution and Marine Biology [Specialization]: University of Rhode Island (URI)",
       "highlights": [
-        "Thesis: Stress conditioning to hypercapnic seawater in the Pacific geoduck Panopea generosa",
+        "Thesis: Stress conditioning to hypercapnic seawater in the Pacific geoduck *Panopea generosa*",
         "Advisor: Hollie M Putnam, PhD"
       ],
       "profiles": [
@@ -50,7 +50,16 @@
       "summary": "Marine Science: Stony Brook University (SBU)",
       "highlights": [
         "Thesis: Effects of diel-cycling hypoxia on cardiac activity and growth of *Argopecten irradians*",
-        "Advisor: Nils Volkenborn"
+        "Advisor: Nils Volkenborn, PhD"
+      ]
+    },
+    {
+      "position": "BACHELOR OF SCIENCE ",
+      "endDate": "2014",
+      "summary": "Marine Biology; Chemistry [Minor]: University of New Haven (UNH)",
+      "highlights": [
+        "Thesis: Arm regeneration of *Asterias forbesi* under hypoxic conditions",
+        "Advisor: Carmela Cuomo, PhD"
       ]
     },
   ],

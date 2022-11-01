@@ -1,0 +1,28 @@
+{
+  "basics": {
+    "name": "Samuel J. Gurr, PhD",
+    "label": "(2021-present) NRC Postdoctoral Research Associate & NOAA Affiliate",
+    "picture": "",
+    "email": "samjgurr@gmail.com",
+    "website": "https://samgurr.github.io/about.html",
+    "location": {
+      "address": "NOAA NEFSC Milford Lab, 212 Rogers Avenue",
+      "postalCode": "CT 06460",
+      "city": "Milford",
+      "countryCode": "USA",
+      "region": "Connecticut"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "SamGurr",
+        "url": "https://github.com/SamGurr"
+      },
+      {
+        "network": "Research gate",
+        "username": "SamGurr",
+        "url": "https://www.researchgate.net/profile/Samuel-Gurr?ev=hdr_xprf&_sg=n3DA9PHEG9_tHci5A1eT6du-yanabkWjEbGZGSzPDmnDZJFrggr4E0cWYdjphAGSEFQWVqcVd6OZLxGU3UiyJT2k"
+      }
+    ]
+  }
+}

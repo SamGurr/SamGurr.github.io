@@ -22,10 +22,10 @@
         {% if e.area %}
           <div class="area"><strong>{{ e.area }}{% if e.studyType %}<span class="studyType">{{ e.studyType | prepend: ', ' }}</span>{% endif %}</strong>{% if e.gpa %}<span class="gpa">{{ e.gpa | prepend: ' (' | append: ' GPA)' }}</span>{% endif %}</div>
         {% endif %}
-        {% if e.courses %}
-          <h5 class="courses-title">{{ site.data.theme.t.cv_education_courses | default: 'Courses' }}</h5>
-          <ul class="courses">
-            {% for course in e.courses %}
+        {% if e.thesis %}
+          <h5 class="thesis-title">{{ site.data.theme.t.cv_education_thesis | default: 'thesis' }}</h5>
+          <ul class="thesis">
+            {% for course in e.thesis %}
               <li>{{ course }}</li>
             {% endfor %}
           </ul>

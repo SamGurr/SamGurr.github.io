@@ -7,7 +7,7 @@ layout: about
 
 ---
 
-Here you will find a hodgepodge of ideas, analysis, detours/roadblocks, and few successes along the way..
+Here you will find a hodgepodge of ideas, analysis, detours/roadblocks, and successes along the way..
 
 I strive to maintain data transparency and reproducibility in my scientific endeavors - this page is platformed in GitHub, providing a more detailed view in real-time documents complimentary to linked data and analytical repositories on my GithHub: {% include icon-github.html username="samgurr" %}
 

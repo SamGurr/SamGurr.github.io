@@ -1,17 +1,24 @@
 ---
-layout: post
-title: Oyster hemolymph flow cytometry cont..
-date: '2022-06-06'
-categories: Processing, Analysis
-tags: Crassostrea oyster OA hemolymph flow_cytometry, C6_plus
+title: "Oyster hemolymph OA (trial)"
+image:
+  path: /images/2022_OysterHemolymphOA_test.PNG
+  thumbnail: /images/2022_OysterHemolymphOA_test_400x200.jpg
+  caption: "flow cytometry gates"
 ---
+
+**post created June 6 2022**
+
+ *  [overiew](https://samgurr.github.io/processing,/analysis/2022/06/06/Oyster-hemolymph-continued.html)
+
+ * [sop](https://samgurr.github.io/protocol/2022/03/15/Hemolymph-physiology-flow-cytometry-protocol.html)
+
 
 
 ## <a name="About experiment"></a> **About experiment**:
 ---------
 Presentation (screenshots of slides below) by S.Gurr [here](https://drive.google.com/drive/folders/1md80eUd5zifJS1w9ZBPENu_iqghCkbac)
 
-Link to oyster hemolymph trial run [here](https://github.com/SamGurr/blob/master/_posts/2022-03-24-Oyster-hemolymph-flow-cytometry.md)
+Link to oyster hemolymph trial run [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2022-03-24-Oyster-hemolymph-flow-cytometry.md)
 
 
 ### In our ongoing study..

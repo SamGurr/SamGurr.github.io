@@ -39,7 +39,7 @@ tags: geoduck, histology
   - select Global if the next photos are all at the same magnification
   - select OK
 
-![setscale](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_sample_setscale.JPG "setsccale")
+![setscale](https://samgurr.github.io/images/gonad_sample_setscale.JPG "setsccale")
 
 ##### 2) Draw oval, measure total area, and clear outside
   - Why? the corners of these histology photos are more blurry and darker than the center of the photos. Drawing this area provides a consistant color threshold for analysis downstream
@@ -49,7 +49,7 @@ tags: geoduck, histology
     - Press Cntrl+m to measure the shape area
   - Select Edit -> Clear Outside to remove the outside of the image and focus our analysis
 
-![gonad_clearoutside](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_clearoutside.JPG "gonad_clearoutside")
+![gonad_clearoutside](https://samgurr.github.io/images/gonad_clearoutside.JPG "gonad_clearoutside")
 
 ##### 3) Analysis with Color threshold
 - Select Image -> Adjust -> Color Threshold
@@ -75,19 +75,19 @@ Target Characteristic | Hue | Saturation | Brightness | Note
 
 #### Sample #041
 
-![gonad_lumen](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_lumen.JPG "gonad_lumen")
+![gonad_lumen](https://samgurr.github.io/images/gonad_lumen.JPG "gonad_lumen")
 
 ### C. Spermatozoa
 
 #### Sample #041
 
-![gonad_spermatozoa](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_spermatozoa.JPG "gonad_spermatozoa")
+![gonad_spermatozoa](https://samgurr.github.io/images/gonad_spermatozoa.JPG "gonad_spermatozoa")
 
 ### D. Spermatozoa+Spermatocytes
 
 #### Sample #041
 
-![gonad_zoa_cytes](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_zoa_cytes.JPG "gonad_zoa_cytes")
+![gonad_zoa_cytes](https://samgurr.github.io/images/gonad_zoa_cytes.JPG "gonad_zoa_cytes")
 
 ### IMPORTANT! Errors in the process...
 
@@ -95,15 +95,15 @@ Target Characteristic | Hue | Saturation | Brightness | Note
 
   - Histology samples showcasing low reproductive status (relative to #041 above) have a higher percent cover of conncetive tissue with lipid cells. Unfortunately, the hue/saturation of the lipid cells overlaps with the lumen.
 
-![gonad_lumen_ERROR](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_lumen_ERROR.JPG "gonad_lumen_ERROR")
+![gonad_lumen_ERROR](https://samgurr.github.io/images/gonad_lumen_ERROR.JPG "gonad_lumen_ERROR")
 
-![lipid_cells_connective_tissue](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/lipid_cells_connective_tissue.JPG "lipid_cells_connective_tissue")
+![lipid_cells_connective_tissue](https://samgurr.github.io/images/lipid_cells_connective_tissue.JPG "lipid_cells_connective_tissue")
 
 #### (2) Spermatocytes + spermatozoa overlap in hue/saturation
 
   - Spermatozoa and spermatocytes can not be determined - solely the total acini space (minus lumen) is possible in these samples (example below)
 
-![gonad_zoa_cytes_4](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_zoa_cytes_4.JPG "gonad_zoa_cytes_4")
+![gonad_zoa_cytes_4](https://samgurr.github.io/images/gonad_zoa_cytes_4.JPG "gonad_zoa_cytes_4")
 
 #### SOLUTION?
   - The purple dye of the cyes and zoa is distinct in all histology slides
@@ -124,7 +124,7 @@ Target Characteristic | Hue | Saturation | Brightness | Note
 - GITHUB REPO: https://github.com/SamGurr/Pgenerosa_histology
 - not significant : T-test; t = 0.47357, df = 6.4737, p-value = 0.6514
 
-![male_gonad_hist](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/male_gonad_hist.JPG "male_gonad_hist")
+![male_gonad_hist](https://samgurr.github.io/images/male_gonad_hist.JPG "male_gonad_hist")
 
 
 

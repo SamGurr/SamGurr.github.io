@@ -7,11 +7,11 @@ tags: hemolymph, JC10, bay scallop, SYBR green, gating, flow cytometry
 ---
 
 # Objective:
-Bleed a few extra scallops (hatchery in the basement) from the F1 common garden culls ealier this year. Test SYBR green and JC-10 in hemolymph using the [protocol](https://samgurr.github.io/SamJGurr_Lab_Notebook/protocol/2022/03/15/Hemolymph-physiology-flow-cytometry-protocol.html) written earlier this year.
+Bleed a few extra scallops (hatchery in the basement) from the F1 common garden culls ealier this year. Test SYBR green and JC-10 in hemolymph using the [protocol](https://samgurr.github.io//protocol/2022/03/15/Hemolymph-physiology-flow-cytometry-protocol.html) written earlier this year with results summarized [here](https://samgurr.github.io//processing,/analysis/2022/03/24/Oyster-hemolymph-flow-cytometry.html)
 
 ## To do:
 
-Again, the protocol has all the info one may need to go about this testing - [check it out!](https://samgurr.github.io/SamJGurr_Lab_Notebook/protocol/2022/03/15/Hemolymph-physiology-flow-cytometry-protocol.html)
+Again, the protocol has all the info one may need to go about this testing - [check it out!](https://samgurr.github.io//protocol/2022/03/15/Hemolymph-physiology-flow-cytometry-protocol.html)
 
 
 

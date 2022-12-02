@@ -64,7 +64,7 @@ C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content
 
 **Figure of flourochromes** from the C6 Plus manual (BD Biosciences; like above in 'SOPs')
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_BD_Manual_FL_wavelengths.PNG "Flow_cy_BD_Manual_FL_wavelengths")
+![Figure](https://samgurr.github.io/images/Flow_cy_BD_Manual_FL_wavelengths.PNG "Flow_cy_BD_Manual_FL_wavelengths")
 
 ## I.) SYBR Green + potassium iodide
 
@@ -80,7 +80,7 @@ C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content
 
 *Figure below*: raw data on side and forward scatter *ignore the color-coded regions as this will initially be all one color at this stage*
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_sscfsc_raw.PNG "Flow_cy_sscfsc_raw")
+![Figure](https://samgurr.github.io/images/Flow_cy_sscfsc_raw.PNG "Flow_cy_sscfsc_raw")
 
 
 ### I.B.) gate with FL1
@@ -91,7 +91,7 @@ C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content
 
 *Figure below*: SYBR green + potassium iodide after 1 hr 14 minute incubation of oyster hemocytes. Gated region titled 'FL1'_Allhem'. *ignore the color-coded regions as this will initially be all one color at this stage*
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_FL1_SYBR_green.PNG "Flow_cy_FL1_SYBR_green")
+![Figure](https://samgurr.github.io/images/Flow_cy_FL1_SYBR_green.PNG "Flow_cy_FL1_SYBR_green")
 
 
 ### I.C.) Overlay FL1 gate to SSC vc FSC, gate cell types
@@ -112,7 +112,7 @@ C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content
 
 - <span style="color:red">All</span> = all hemocytes, gated around the entire area after the four cell types/regations were determines
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_sscfsc_gated.PNG "Flow_cy_sscfsc_gated")
+![Figure](https://samgurr.github.io/images/Flow_cy_sscfsc_gated.PNG "Flow_cy_sscfsc_gated")
 
 
 ### I.D.) Live vs. dead using FL3
@@ -135,7 +135,7 @@ On FL2.. JC-10 is concentrated in the matrix forming red fluorescent aggregates.
 
 *Figure below*: Flourescence of JC-10 at the FL1 and FL2 (top and bottom, respectively) parsed by cell type
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_JC10_FL1_FL2.png "JC10_data")
+![Figure](https://samgurr.github.io/images/Flow_cy_JC10_FL1_FL2.png "JC10_data")
 
 Where do we go from here?
 
@@ -153,7 +153,7 @@ What does this tell you?
 
 *Figure below*: Results of JC-10 for adult oysters after 24 hours of exposure to ambient vs. elevated pCO2 (top) and 8 days of exposure (bottom). Panels are parsed by cell type gated wihtin individual with SBYR green
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_JC10_RESULTS.png "JC10_results")
+![Figure](https://samgurr.github.io/images/Flow_cy_JC10_RESULTS.png "JC10_results")
 
 #### Interpretation of data...
 
@@ -186,21 +186,21 @@ some notes...
 
 Figure dump... drag and drop to above where needed as you edit..
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_Beads_mature_granulocytes_gates.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_Beads_mature_granulocytes_gates.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_DCFHDA_parsed_FL1.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_DCFHDA_parsed_FL1.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_gate_FL1__for_DCFHDA.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_gate_FL1__for_DCFHDA.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_gated_OFF_DCFHFDA.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_gated_OFF_DCFHFDA.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_interection_live_cells_by_type.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_interection_live_cells_by_type.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_matrue_granulocytes_Beads.PNG "Pgen_histology_figs")
+![Figure](https://samgurr.github.io/images/Flow_cy_matrue_granulocytes_Beads.PNG "Pgen_histology_figs")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_sscfsc_gated.PNG "Flow_cy_sscfsc_gated")
+![Figure](https://samgurr.github.io/images/Flow_cy_sscfsc_gated.PNG "Flow_cy_sscfsc_gated")
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_SYBRGreen_PI_master_gated.PNG "Flow_cy_SYBRGreen_PI_master_gated")
+![Figure](https://samgurr.github.io/images/Flow_cy_SYBRGreen_PI_master_gated.PNG "Flow_cy_SYBRGreen_PI_master_gated")
 
 
-![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_FL1_SYBR_green.PNG "Flow_cy_FL1_SYBR_green")
+![Figure](https://samgurr.github.io/images/Flow_cy_FL1_SYBR_green.PNG "Flow_cy_FL1_SYBR_green")

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: time to git started
+title: Time to git started
 date: '2023-03-03'
 categories: Protocols
 tags: git workshop NOAA github RClub

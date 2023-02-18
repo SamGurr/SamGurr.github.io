@@ -57,14 +57,14 @@ If samples are frozen and require dissection, remove from the freezer and let si
   - wash beakers: dilution bleach, 70% Ethanol, & DI water
   - vessels: large (for adult scallop) and small (for dissected tissue sample) weigh boats work nicely. Especially considering that a ~30 mg tissue sample must be weighed before added to the TL buffer (step 2 in 'Procedure')
 
-![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adults_pre_dissection.jpg "Airradians_adult_dissected")
+![Airradians_adult_dissected](https://samgurr.github.io/images/Airradians_adults_pre_dissection.jpg "Airradians_adult_dissected")
 
 - now with your space in order... **thaw adult scallops for ~10-15 minutes** and begin dissection
 
 
-![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adult_dissected.jpg "Airradians_adult_dissected")
+![Airradians_adult_dissected](https://samgurr.github.io/images/Airradians_adult_dissected.jpg "Airradians_adult_dissected")
 
-![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adults_adductor_sample.jpg "Airradians_adult_dissected")
+![Airradians_adult_dissected](https://samgurr.github.io/images/Airradians_adults_adductor_sample.jpg "Airradians_adult_dissected")
 
 - use clean shucking knife to carefully remove enough shell to expose the adductor muscle
 

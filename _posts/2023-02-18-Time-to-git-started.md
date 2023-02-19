@@ -6,11 +6,7 @@ categories: Protocols
 tags: git workshop NOAA github RClub
 ---
 
-# Time to 'git'!
-
-----
-
-## before we 'git' going..
+# Before we 'git' going..
 
 * start a git account
 
@@ -179,18 +175,24 @@ however all edits to a forked respository have no effect on the original.
 **branch** - think **under construction** or **work in progress**, the branch is akin to a manuscript with track changes on where the parent/origin is a separate document that is managing changes.
 In other words, the branch mimics the parent/origin but its purpose is to prevent direct integration of change to the master repository without a stamp of approval from the manager(s)
 
-- useful for collaborative workflow in large teams when edits are created on a particular feature with the intent to manage what is integrated to the parent/origin - occasionally a brnach can be named for that task such as 'timeline data' or 'stats'
+- version control with local versus remote repositories
+
+- useful for collaborative workflow in large teams when edits are created on a particular feature with the intent to manage what is integrated to the parent/origin - occasionally a branch can be named for a particular task - the start of a branch can also occur at a particular version or prior commit to the repository
 
 	- alternative definition: a tree's fingers of which a tree's *forks* would be much more appropriate in our modern age (review alt def of fork)
 
-We have a <span style="color:green">branch</span> for teamwork
+We have a <span style="color:green">branch</span> remote branch 'teamwork' that was first established locally before pushed as a remote branch. This branch is up-to-data with the main branch and you will receive it when you clone the repository
 
-This was created using the following git commands from the main branch:
-
-* a 'teamwork' branch (<span style="color:green">-b</span>) was created in for the Rclub repository by using the command <span style="color:green">git checkout -b</span>
+* a 'teamwork' branch (<span style="color:green">-b</span>) was created in for the Rclub repository by using the commands below - each shown with descriptions in []
 
 ```
-git checkout -b teamwork (do NOT run this - a teamwork branch was already made for us)
+(do NOT run these - a remote branch was already established for our use)
+
+git branch teamwork [create local branch]
+git branch [view your local branches]
+git switch teamwork [switch branch to new branch]
+git push -u origin teamwork [pushes the new local branch as a remote branch, -u facilitates tracking]
+git branch -v [view commits/changes ahead and behind the remote branch, we can use this call because of the -u tracking when first establishing teamwork as remote branch]
 ```
 
 (1) Knowing we have a branch for 'teamwork' and a 'main' branch - lets look at these
@@ -207,17 +209,14 @@ git branch
 
 (2) Navigate to the teamwork branch
 
- use <span style="color:green">git branch branchname</span> to switch
+ use <span style="color:green">git switch branchname</span> to switch
 
 ```
-git checkout teamwork
+git switch teamwork
 ```
-
-* you will now see that you change branches - you can change back using the same command naming the other existing branches
 
 # Version control for leading RClub sessions
 ----
-
 
 ### objective:
 
@@ -245,7 +244,6 @@ git checkout teamwork
 
 ### View files from command line
 
-
 * start, read, and edit a file
 
 **there are a few text editors you can use, each have their limitations**
@@ -257,7 +255,6 @@ git checkout teamwork
 ```
 nano README.md
 ```
-
 
 **<span style="color:red">vim</span>** : another stock text shell, even more cumbersome than nano.
 
@@ -303,6 +300,14 @@ note
 
 
 #### How read and open text files from command line to save edits
+
+Before getting started, navigate to the teamwork branch (if not there already)
+
+```
+git switch teamwork
+```
+
+
 
 (1) View whole file in command line
 
@@ -400,11 +405,11 @@ cat  yourname_file.txt
 
 #### objective:
 
-* add yourname_file.txt to the main repository online and integrate all changes (everyone else's yourname_file.txt files) to your computer!
+* add yourname_file.txt to the teamwork branch online and integrate all changes (everyone else's yourname_file.txt files) to your local branch!
 
 (1) Navigate to the RClub
 
-(2) Use <span style="color:green">git pull</span> to integrate changes you do not have
+(2) Use <span style="color:green">git pull</span> to integrate changes on the remote teamwork brnach that you do not have
 
 ```
 git pull
@@ -412,8 +417,7 @@ git pull
 
 * if there are no changes, it will say it is up to date
 
-	- NOTE: this is the step where merge conflicts will arise, we can work on this in future meetings
-
+	- NOTE: this is the step where merge conflicts may arise, we can work on this in future meetings
 
 (3) Use <span style="color:green">git status</span> to view changes you made. This should dhow the yourname_file.txt in red to indicate is a pending edit that has not been added
 
@@ -448,9 +452,52 @@ git commit -m "a message here for your record, requires quotes!"
 * <span style="color:green">origin master</span> == older git repos are called 'master', however ours is 'main' so do not worry
 
 ```
-git push origin main
+git push origin teamwork
 ```
 
 # Celebrate, you 'git' it!
 
-**WOW! you now integrated a new edit to the main repository. [Check it out on github](https://github.com/SamGurr/RClub)**
+**WOW! you now integrated a new edit to the teamwork repository. [Check it out on github](https://github.com/SamGurr/RClub/tree/teamwork)**
+
+# But wait! We 'git' to MERGE it with the main!
+
+### online
+
+* pushing from a branch is called a **pull request** to the main branch
+
+* you can see on the RClub page that there are pull requests generated by our cumulative pushes to the remote teamwork branch
+
+* this interfance online allows us to observe where there are conflicts (if any) and merge with the main
+
+- NOTE: if you do this online, make sure to **pull** to your local so that you are up to date
+
+### from command line
+
+* return to the main local branch on your git (now main is your HEAD branch)
+
+```
+git switch main
+```
+
+* merge your current HEAD branch (main) with the changes in teamwork
+
+```
+git merge teamwork
+```
+
+* repeat the same workflow
+
+	- git status
+
+	- git add
+
+	- git status
+
+	- git commit -m <your message>
+
+	- git push origin main
+
+
+# Celebrate.. again!
+
+**your changes to teamwork are not integrated in the main repository.** [Check it out on github](https://github.com/SamGurr/RClub)

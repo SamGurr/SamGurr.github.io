@@ -7,6 +7,7 @@ tags: git workshop NOAA github RClub
 ---
 
 # Before we 'git' going..
+----
 
 * start a git account
 
@@ -18,7 +19,7 @@ tags: git workshop NOAA github RClub
 
 * email your github account ID to samuel_gurr@noaa.gov to be added as a collaborator to the repository 'RClub' and accept the invitation to be a collaborator (you will get an email notification)
 
-	- NOTE:  git appears same as raw shell lfor using linux commands whereas the github UI is an application-like interface the following workshop uses commands for a git workflow that can be translated to the UI if prefered  
+- NOTE:  git appears same as raw shell for using linux commands whereas the github UI is an application-like interface the following workshop uses commands for a git workflow that can be translated to the UI if prefered  
 
 ## objective:
 
@@ -37,7 +38,7 @@ tags: git workshop NOAA github RClub
 
 * 'clone' a preestablished github repository to your own laptop
 
-* learn how the clone process differs if you are or are not a assigned collaborator for the repository
+* learn how the clone process differs if you are or are not a collaborator for the repository
 
 **Below are steps supplemented with color-coded <span style="color:red">linux</span> and <span style="color:green">git</span> commands**
 
@@ -47,7 +48,7 @@ tags: git workshop NOAA github RClub
 
 (2) Use <span style="color:red">linux</span> commands to navigate to a directory where you want the 'RClub' respository to live. *You are now ready to <span style="color:green">git</span> the repository*
 
-	- NOTE: the 'RClub' repository is already active and on github. you can  establish a new repository from command line (example tutorial [here](https://kbroman.org/github_tutorial/pages/init.html)) though we will not do this today
+- NOTE: the 'RClub' repository is already active and on github. you can  establish a new repository from command line (example tutorial [here](https://kbroman.org/github_tutorial/pages/init.html)) though we will not do this today
 
 * <span style="color:red">cd</span> to return or call your home directory
 
@@ -64,7 +65,7 @@ cd dir (where dir = directory name with '/' dividing each subseqent folder)
 
 * navigate backward
 
-	- NOTE:  repeat ../ for each folder preceeding
+- NOTE:  repeat ../ for each folder preceeding
 
 ```
 cd ../
@@ -76,7 +77,7 @@ cd ../
 ls
 ```
 
-	- NOTE: repository is just a jargony word for a folder, treat this as you would any project folder
+- NOTE: repository is just a jargony word for a folder, treat this as you would any project folder
 
 (3) *optional* make, move, and delete directories
 
@@ -101,7 +102,7 @@ rm filename
 
 * CAUTION: delete a **directory** (-r means including EVERYTHING in it!) as <span style="color:red">rm -r</span>
 
-	- NOTE:  -r means recursive, all contents within the dir are called for deletion
+- NOTE:  -r means recursive, all contents within the dir are called for deletion
 
 ```
 rm -r dir
@@ -158,7 +159,7 @@ to better manage large and productive teams!
 
 You're likely saying to yourself, *'git' outta 'ere with this jargon!*, I'll briefly touch on these useful tools. As mentioned above, you are all collaborators on the 'RClub' repository with full contribution and collaboration rights - one can smell the potential for trouble here with failed pushes, overwritten merges, and temporary distress oh my!
 
-	- NOTE: though we will not touch on this today, version control allows us to revert back to **any** commit for a given repo - meaning that any version of a file can be recovered
+- NOTE: though we will not touch on this today, version control allows us to revert back to **any** commit for a given repo - meaning that any version of a file can be recovered
 
 
 #### Definitions:
@@ -170,7 +171,7 @@ however all edits to a forked respository have no effect on the original.
 
 - example: website templates, code and mock data, etc. open data is cool right!
 
-	- alternative definition: a 3-4 pronged utencil for formally transporting nutrients as opposed to the fingers that have well adapted for this task
+- alternative definition: a 3-4 pronged utencil for formally transporting nutrients as opposed to the fingers that have well adapted for this task
 
 **branch** - think **under construction** or **work in progress**, the branch is akin to a manuscript with track changes on where the parent/origin is a separate document that is managing changes.
 In other words, the branch mimics the parent/origin but its purpose is to prevent direct integration of change to the master repository without a stamp of approval from the manager(s)
@@ -179,7 +180,7 @@ In other words, the branch mimics the parent/origin but its purpose is to preven
 
 - useful for collaborative workflow in large teams when edits are created on a particular feature with the intent to manage what is integrated to the parent/origin - occasionally a branch can be named for a particular task - the start of a branch can also occur at a particular version or prior commit to the repository
 
-	- alternative definition: a tree's fingers of which a tree's *forks* would be much more appropriate in our modern age (review alt def of fork)
+- alternative definition: a tree's fingers of which a tree's *forks* would be much more appropriate in our modern age (review alt def of fork)
 
 We have a <span style="color:green">branch</span> remote branch 'teamwork' that was first established locally before pushed as a remote branch. This branch is up-to-data with the main branch and you will receive it when you clone the repository
 
@@ -205,7 +206,7 @@ git branch
 
 * *the output will list all existing branches with your highlighted/bold.
 
-	- NOTE:  Notice that the branch you are in  is also shown in () at the end of our git command directory
+- NOTE:  Notice that the branch you are in  is also shown in () at the end of our git command directory
 
 (2) Navigate to the teamwork branch
 
@@ -500,4 +501,4 @@ git merge teamwork
 
 # Celebrate.. again!
 
-**your changes to teamwork are not integrated in the main repository.** [Check it out on github](https://github.com/SamGurr/RClub)
+**your changes to teamwork are now integrated in the main repository.** [Check it out on github](https://github.com/SamGurr/RClub)

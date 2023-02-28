@@ -51,9 +51,9 @@ The raw respiration data exists in two forms *dependent on whether the presens o
 
 All data is saved in directories with the time stamp as YYYYMMDD
 
-	* **google drive** location: BayScallops 2021-2023 > 1.All DATA FILES > ( F0, F1, or F2 here1) >Respiration > file_uploads > YYYMMDD
+* **google drive** location: BayScallops 2021-2023 > 1.All DATA FILES > ( F0, F1, or F2 here1) >Respiration > file_uploads > YYYMMDD
 
-	* **remote repository (github)** location: RAnalysis > Data > Physiology > Respiration > YYYMMDD
+* **remote repository (github)** location: RAnalysis > Data > Physiology > Respiration > YYYMMDD
 
 
 #### Nuances between stored (google drive) and working (repository)
@@ -165,11 +165,11 @@ SCRIPT: **Respiration_raw_plots.R**
 we can make important decisions during the next step - the following script being computationally intensive
 for large datasets. thus truncation of the data by intervals and/or before a cut-off is important to reduce run time.
 
-	- example 1: larval respiration rate data run overnight due to slow rates, high temporal reslution every 5 seconds. In addition to
+- example 1: larval respiration rate data run overnight due to slow rates, high temporal reslution every 5 seconds. In addition to
 	O2-based truncation (only >0 a.s. to avoid confounding effects ofhypoxia on metabolism) we can view the dataset to truncate
 	in intervals or before a specific timepoint (< 3 hours for example)
 
-	- example 2: we have fast rates with adults in which we stopped and reoxygenated containers at 30 minutes of record, however
+- example 2: we have fast rates with adults in which we stopped and reoxygenated containers at 30 minutes of record, however
 	the system was run through lunch before taken down. In this case the majority of the record contains non-critical data and we can
 	truncate < 30 minutes to reduce run time
 

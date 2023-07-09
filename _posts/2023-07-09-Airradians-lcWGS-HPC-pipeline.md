@@ -363,7 +363,8 @@ scp sgurr@sedna.nwfsc2.noaa.gov:/Airradians_lcWGS/F1/output/fastp_multiQC/raw/mu
 
 ```
 
-- here is out run for April 2023
+- here is our run for April 2023
+
 ```
 scp sgurr@sedna.nwfsc2.noaa.gov:/Airradians_lcWGS/F0_F2_April2023/output/fastp_multiQC/multiqc_report.html C:/Users/samuel.gurr/Documents/Github_repositories/Airradians_multigen_OA/HPC_analysis/output/April2023_lcWGS_QCreport/multiqc_raw.html
 
@@ -387,9 +388,11 @@ scp sgurr@sedna.nwfsc2.noaa.gov:/Airradians_lcWGS/F0_F2_April2023/output/fastp_m
 -------------------------------------------
 
 ### What this script will do...
+
 - ``` --adapter_sequence ``` =
 	- trim adapter sequence ```AGATCGGAAGAGCACACGTCTGAACTCCAGTCA```
 	- common single-end adapter in Illumina. You can run a test on a fastq.gz to count
+	
 - ```multiqc ./``` = outputs mutliqc report of the 'clean' reads in the current directory
 
 
@@ -441,8 +444,6 @@ source ../../../../python_venv/bin/activate # from the current directory, activa
 multiqc ./adapter_trim  -o ./adapter_trim #Compile MultiQC report from FastQC files - output .html in adpater_trim directory ( fast_muiltiQC folder)
 
 echo "Cleaned MultiQC report generated." $(date)
-
-
 ```
 
 ### EXPORT MUTLIQC REPORT
@@ -455,7 +456,6 @@ echo "Cleaned MultiQC report generated." $(date)
 scp sgurr@sedna.nwfsc2.noaa.gov:Airradians_lcWGS/F1/output/fastp_multiQC/adapter_trim/multiqc_report.html C:/Users/samuel.gurr/Documents/Github_repositories/Airradians_multigen_OA/HPC_analysis/output/F1_lcWGS_25samples/multiqc_adapter_trim.html
 
 scp sgurr@sedna.nwfsc2.noaa.gov:Airradians_lcWGS/F0_F2_April2023/output/fastp_multiQC/adapter_trim/multiqc_report.html C:/Users/samuel.gurr/Documents/Github_repositories/Airradians_multigen_OA/HPC_analysis/output/April2023_lcWGS_QCreport/multiqc_adapter_trim.html
-
 ```
 
 # Alignment of cleaned reads to reference
@@ -497,6 +497,7 @@ FASTA files do not have a way of specifying quality values, so when -f is set,
 the result is as if --ignore-quals is also set
 
 Note: other options for your reads are ```-q ``` for FASTQ files,
+
  ```--qseq ``` for QSEQ  files, etc. - check [here](http://daehwankimlab.github.io/hisat2/manual/) for more file types
 
 **(2)** *align reads to reference*

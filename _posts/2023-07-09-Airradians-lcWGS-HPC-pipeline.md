@@ -6,9 +6,6 @@ categories: Processing Analysis Goals
 tags: lcWGS markdown workflow pipeline
 ---
 
-
-# Argopecten irradiains lcWGS Bioinformatics!
-.
 ## <span style="color:blue">**Table of Contents**</span>
   - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
 	  - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)

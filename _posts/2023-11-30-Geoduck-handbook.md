@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Geoduck handbook
-date: '2021-05-01'
+date: '2023-11-30'
 categories: protocols
 tags: geoduck, aquaculture, handbook, priming
 ---
+### Link to handbook  repo:
+[handbook link](https://github.com/SamGurr/Geoduck_handbook)
 
 
-<!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
 ---

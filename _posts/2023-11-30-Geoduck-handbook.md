@@ -5,8 +5,9 @@ date: '2023-11-30'
 categories: protocols
 tags: geoduck, aquaculture, handbook, priming
 ---
-### Link to handbook  repo:
-[handbook link](https://github.com/SamGurr/Geoduck_handbook)
+
+# Completed September 16 2022
+## [handbook link - github release v1.0](https://github.com/SamGurr/Geoduck_handbook)
 
 
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
@@ -740,47 +741,56 @@ Does gene expression data give us a better picture of the *mechanisms of stress 
 <p align="center">
 <img src="https://samgurr.github.io/images/20210621_CartoonConcept.jpg" width="700">
 
+
 > *figure:* summary of the gene expression data in our study presented as a Venn diagram for the experimental design. Subsets of the venn diagram demonstrate groups of processes to describe gene expression patterns from the naive and stress-primed ('acclimated') clams as white and grey clams, respectively. On the bottom of the figure are gene pathways expressed by the naive (white clam) and stress-primed/acclimated (grey clam) animals during the subsequent exposure periods.
+
 
 #### <span style="color:beige">Summary:</span>
 
+
 - Collectively, gene expression data in this study corroborates the physiological traits (*review #2 'Stress conditioning on subsequent response'*) and demonstrates both frontloaded and fine-tuned gene expression in th
+
 
 **stress-primed animals:**
 - under low pH: increased expression in immune response, mitochondrial and cellular quality control
 - under ambient conditions: increased expression in energy metabolism and biosynthesis
 
+
 **naïve animals:**
 - under *all* conditions: increased expression for fatty acid metabolism and degradation of fatty acids, increase in antioxidants (glutathione)
+
 
 - Our data suggests post-larval acclimatory periods to low pH can, via gene expression regulation, enhance robustness to environmental stress in juvenile Pacific geoducks.
 Such stress priming approaches may be beneficial for aquaculture husbandry practices, as global seafood demand intensifies concurrent with increasing climate change in marine systems.
 
+
 ## <span style="color:green">**III.3 Takeaways for Aquaculture**</span>
+
 
 <span style="color:beige">‘Stress priming’ to improve hatchery-propagated seed:</span>
 
- Aquaculture is projected to surpass wild capture to satisfy global seafood demand (FAO 2020); therefore the irreversible nature of global acidification and rapid changes in coastal and benthic zones  require mitigation through societal actions (e.g. management interventions, policies and public awareness; Kelly et al., 2011) and aquaculture adaptations to improve food security.
+
+Aquaculture is projected to surpass wild capture to satisfy global seafood demand (FAO 2020); therefore the irreversible nature of global acidification and rapid changes in coastal and benthic zones  require mitigation through societal actions (e.g. management interventions, policies and public awareness; Kelly et al., 2011) and aquaculture adaptations to improve food security.
 
 Mild stress-priming may help to minimize effects of domestication selection ('unprepared' juvenile clams rearing under optimal conditions) and enhance resilience in hatchery-propagated seed. Gene expression patterns and physiological responses, as showcased in our tests, can expand resources for ecosystem conservation and aquaculture by optimizing the timing and stress type/intensity to elicit beneficial responses and identifying genes or gene-expression patterns associated with stress-resilient or fast-growing economic traits!
 
 # <span style="color:Green">**Acknowledgements**</span>
 
-
-
 Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at the Jamestown Point Whitney Shellfish Hatchery (Brinnonn, WA).
 
-< insert picture of Kurt and the Jamestown personnel here>
 
 <p align="center">
 <img src="https://samgurr.github.io/images/Kurt.png" width="500">
 
+
 >  *photo/image (above):* Kurt Grinnell - CEO of Jamestown Seafood, Jamestown S’Klallam Tribal Council member (photo courtesy of Northwest Aquaculture Alliance /Jamestown S’Klallam Tribe)
+
 
 <p align="center">
 <img src="https://samgurr.github.io/images/Mat_and_Josh.JPG" width="500">
 
 >  *photo/image (above):* Mat Henderson (left) and Josh Valley (right) at the Jamestown shellfish hatchery
+
 
 ### Funding sources
 We thank our funding source the **Foundation for Food and Agriculture Research (FFAR)**; Grant ID: 554012, Development of Environmental Conditioning Practices to Decrease Impacts of Climate Change on Shellfish Aquaculture.

@@ -725,8 +725,7 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 ### <span style="color:beige"> c) Gene expression of naive *v* stress-primed clams:</span>
 
-> *Reference:*
-Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (in prep). Environmental conditioning of clams to low pH enhances robustness to environmental stress through acclimatory gene expression.
+> *Reference:* Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (in prep). Environmental conditioning of clams to low pH enhances robustness to environmental stress through acclimatory gene expression.
 
 In the above experiment (*review #2 'Stress conditioning on subsequent response'*) we sequenced whole tissue samples of geoduck clams reared under ambient conditions (naive) and reared under the low-pH stress conditions (stress-primed).
 
@@ -740,7 +739,7 @@ Does gene expression data give us a better picture of the *mechanisms of stress 
 
 <p align="center">
 <img src="https://samgurr.github.io/images/20210621_CartoonConcept.jpg" width="700">
-
+</p>
 
 > *figure:* summary of the gene expression data in our study presented as a Venn diagram for the experimental design. Subsets of the venn diagram demonstrate groups of processes to describe gene expression patterns from the naive and stress-primed ('acclimated') clams as white and grey clams, respectively. On the bottom of the figure are gene pathways expressed by the naive (white clam) and stress-primed/acclimated (grey clam) animals during the subsequent exposure periods.
 
@@ -781,13 +780,14 @@ Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at
 
 <p align="center">
 <img src="https://samgurr.github.io/images/Kurt.png" width="500">
-
+</p>
 
 >  *photo/image (above):* Kurt Grinnell - CEO of Jamestown Seafood, Jamestown S’Klallam Tribal Council member (photo courtesy of Northwest Aquaculture Alliance /Jamestown S’Klallam Tribe)
 
 
 <p align="center">
 <img src="https://samgurr.github.io/images/Mat_and_Josh.JPG" width="500">
+</p>
 
 >  *photo/image (above):* Mat Henderson (left) and Josh Valley (right) at the Jamestown shellfish hatchery
 

@@ -66,13 +66,13 @@ tags: geoduck, aquaculture, handbook, priming
 
   - ####  b. [Stress conditioning on subsequent response](#-b-stress-conditioning-on-subsequent-response)
 
-  - ###  c. [Gene expression and stress priming](#-c-gene-expression-of-naive-v-stress-primed-clams)
+  - ####  c. [Gene expression and stress priming](#-c-gene-expression-of-naive-v-stress-primed-clams)
 
 - ###  III.3 [Takeaways for Aquaculture](#iii3-takeaways-for-aquaculture-1)
 
 ## [Acknowledgements](#acknowledgements-1)
 
-
+---
 
 ## <span style="color:turquoise">About</span>
 
@@ -125,6 +125,8 @@ Adult  |  4-6 years (minimum) | >$14 per pound | consumers (as food) & aquacultu
 
   > *DID YOU KNOW?*
   > - *As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!*
+
+---
 
 # <span style="color:turquoise">I. General Rearing Practices</span>
 
@@ -186,7 +188,7 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 
 >*photo/image*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
 
-
+---
 
 ## <span style="color:yellowgreen">I.2. Broodstock Conditioning & Natural Spawning</span>
 
@@ -335,6 +337,8 @@ culling may result in a *genetic bottleneck* (faster growers are from one parent
 - As for Pacific geoduck, animals are in human hands at the hatchery for the initial 5 months after fertilization. At the 'seed' stage geoduck are planted and succumb to the natural environment for roughly 4-7 years until harvested!!
 - No single method is an 'end all' solution! Outcomes of any adjustment or enhancement strategy are likely to be specific to the region or hatchery! Especially with jobs and profit at risk, it is critical to prototype and run small-scale tests of any changes to standard protocols.
 
+---
+
 # <span style="color:turquoise">II. Broodstock & Spawning Enhancement Strategies</span>
 
 Geoduck hatcheries face an array of concerns during the spawning season...
@@ -463,7 +467,7 @@ Strip spawning is a destructive method for spawning geoduck, meaning all chosen 
 
 In this brief section, we discuss our alternative and non-lethal trials to identify sex in broodstock groups and assess their reproductive status. We also outlined our strip spawn trial that produced viable offspring at the hatchery. Altogether, we found gonad biopsy through the pedal gape successfully identified sex and reproductive status, suggesting that these biopsies are a minimally-invasive and non-lethal alternative to sacrificial sampling. Moreoever,,, **expand here on the vitellogenin work - contact Shelly Trigg to add here if she has info**
 
-
+---
 
 # <span style="color:turquoise">III Climate Change & Aquaculture</span>
 
@@ -772,6 +776,8 @@ Such stress priming approaches may be beneficial for aquaculture husbandry pract
 Aquaculture is projected to surpass wild capture to satisfy global seafood demand (FAO 2020); therefore the irreversible nature of global acidification and rapid changes in coastal and benthic zones  require mitigation through societal actions (e.g. management interventions, policies and public awareness; Kelly et al., 2011) and aquaculture adaptations to improve food security.
 
 Mild stress-priming may help to minimize effects of domestication selection ('unprepared' juvenile clams rearing under optimal conditions) and enhance resilience in hatchery-propagated seed. Gene expression patterns and physiological responses, as showcased in our tests, can expand resources for ecosystem conservation and aquaculture by optimizing the timing and stress type/intensity to elicit beneficial responses and identifying genes or gene-expression patterns associated with stress-resilient or fast-growing economic traits!
+
+---
 
 # <span style="color:Green">**Acknowledgements**</span>
 

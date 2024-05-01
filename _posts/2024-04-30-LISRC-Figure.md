@@ -8,7 +8,7 @@ tags: figure QRcode scallop acidification pCO2
 
 Hello! Review our carbonate chemistry below
 
-![Chemistry Figure](https://samgurr.github.io/images/BayScallop_OA_Figure.pdf "Chemistry Figure")
+![Chemistry Figure](https://samgurr.github.io/images/BayScallop_OA_Figure.jpg "Chemistry Figure")
 
 Figure caption: Bay scallops *Argopecten irradians* were exposed for two generations
 under low and moderately-elevated pCO2 conditions. Exposures began 4 hours post-fertilization

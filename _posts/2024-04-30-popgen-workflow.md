@@ -34,9 +34,14 @@ whole genome seq data to maximize replication and quantify allele freqs across t
 before they were samples, expect minimal change between these cohorts 
 
 
-## Workflow
 
-### Clean reads & QC 
+
+# Workflow
+
+
+
+
+## Clean reads & QC 
 
 *input* = raw fastq.qz files! 
 *output* = clean fastq.gz files
@@ -47,7 +52,10 @@ Note: use `scp` to upload from your personnal to the cluster, but remember to ru
 
 * cite: 
 
-### Map to reference genome 
+
+
+
+## Map to reference genome 
 
 *input* = clean fastq.gz files!
 *output* = mapped .bam files!
@@ -55,6 +63,8 @@ Note: use `scp` to upload from your personnal to the cluster, but remember to ru
 **modules**: hisat2
 
 * cite: 
+
+
 
 
 ### Merge bam files 
@@ -66,7 +76,10 @@ Note: use `scp` to upload from your personnal to the cluster, but remember to ru
 
 * cite: 
 
-### Sort bams and remove duplicates
+
+
+
+## Sort bams and remove duplicates
 
 *input* = mapped bam files
 *output* = mapped bam files with duplicates removed and sorted by coordinate
@@ -84,11 +97,89 @@ Note: I found quername sorted bams maximized duplicate removal in all cases.
 I therefore sort by queryname, then remove duplicates and follow with coordinate sorting the output. 
 becasue the output *must be coodinate sorted* to run angsd! 
 
-### Genotyping
+
+
+
+## Genotyping
 
 *input* = mapped bam files (duplicates removed and coordinate sorted!)
-*output* = geno.gz, mafs.gz, .vcf, and more!
+*output* = geno.gz, mafs.gz, .bcf, and more!
+
+
+**Note:** Using ```angsd``` many filteres can be used based such as minmum allele frequency (MAF), p value, min/max depth, min individuals, base quality etc. 
 
 **modules**: angsd
 
 * cite: 
+
+
+
+
+### Convert to VCF and Merge VCF files 
+
+**Objective:** Combine the output of multiple angsd runs. Note that this depends on the question you are asking and whether you may want to 
+analysis these datasets together or separately. For example, we have the SNP calls of a single breoodstock parentage (~20 animals) and offspring of those parents
+that were given two treatements before sampled as juveniles (40 per treatment). Angsd was run separately on these three groups (parents, offspring A, offspring B) - 
+we may want to merge the offspring A and B VCF files for downstream analysis!
+
+```angsd``` outputs a binary .bcf. file - first convert to vcf format! 
+
+We first need to index the vcf files! 
+
+### Analysis and diagnostics of VCF files 
+
+* see how big the vcf file is 
+
+```
+ls -lh *.vcf.gz
+```
+
+* check how many variants there are 
+
+	- this prints each line of the vcf 
+
+```
+bcftools view -H cichlid_full.vcf.gz | wc -l
+```
+
+
+### Subsampling the vcf files
+
+**Objective**: understand what fileterd you should set by subsetting your file (if very large!) to run basic statistics 
+One way of ding this (without bias from chronomose position that may have mapped poorly/well) is to truncate your vcf file randomly 
+from start to   end. 
+
+**modules**: bcftools, vcflib
+
+The following is an ecample of  a command using ```-r``` as the rate of sampling or the fraction of the total vcf that we wish to retain. 
+For example, if we have a file with 1 million variants, ```-r 0.10``` would output a subset with 100 K variants
+
+```
+bcftools view <file name input>.vcf.gz | vcfrandomsample -r 0.012 > <file name output>.vcf
+```
+
+You can then zip it, this will output <subset output file>.vcf.gz
+
+```
+bgzip <subset output file>.vcf
+```
+
+And index it for downstream analysis
+
+```
+bcftools index <subset output file>.vcf.gz
+``` 
+
+
+### Calculating statistics from vcf files 
+
+**modules**" bcftools 
+
+* command ```--gzvcf``` throughout the following commands to communicate to bcftools that yoour input is a gzip vcf file 
+
+
+
+```vcftools --gzvcf $SUBSET_VCF --freq2 --out $OUT --max-alleles 2```
+
+
+

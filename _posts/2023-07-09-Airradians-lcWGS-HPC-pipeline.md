@@ -8,7 +8,6 @@ tags: lcWGS markdown workflow pipeline
 
 ## <span style="color:blue">**Table of Contents**</span>
   - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
-	  - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
       - [Digital fingerprint md5sums](#run-checksum) (HPC script; <span style="color:green">**md5_checksum.sh**<span>)
   - [1. MultiQC: Initial QC](#Quality-check-of-raw-reads) (HPC script; <span style="color:green">**mutliqc.sh**<span>)
   - [2. Trimming and QC of 'clean' reads](#Trimming-and-post-trim-quality-check-of-'clean'-reads)
@@ -32,8 +31,6 @@ You can concatenate using 'cat *.md5 > new_file.md5'
 	- example: cat *.md5 > ~/Airradians_lcWGS/F0_F2_April2023/output/md5checksum/April2023_reference.md5
 
 * first objective to assemble a cumulative file with these text lines in one .txt
-
-
 
 ## run checksum
 

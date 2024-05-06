@@ -171,15 +171,36 @@ bcftools index <subset output file>.vcf.gz
 ``` 
 
 
-### Calculating statistics from vcf files 
+### Calculating statistics from vcf files (Pre-filtering!)
+
+**What statistics?**
+
+* Missingness
+
+* Depth
+
+* Minor allele frequency 
 
 **modules**" bcftools 
 
 * command ```--gzvcf``` throughout the following commands to communicate to bcftools that yoour input is a gzip vcf file 
 
 
-
 ```vcftools --gzvcf $SUBSET_VCF --freq2 --out $OUT --max-alleles 2```
+
+
+### Calculating Fst from vcf file 
+
+**Options:**
+
+- PGDSider 
+
+- adegenet (in R) 
+
+	- Check out this tutorial - https://adegenet.r-forge.r-project.org/files/tutorial-basics.pdf
+
+
+
 
 
 

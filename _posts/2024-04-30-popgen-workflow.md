@@ -162,7 +162,7 @@ bcftools convert -O v -o outfilename.vcf inputfilename.bcf
 * compressed vcf in one step 
 
 ```
-bcftools convert -O z -o outfilename.vcf.gz inputfilename.bcf
+bcftools convert -Oz -o outfilename.vcf.gz inputfilename.bcf
 ```
 
 2.b) Compress the vcf file to vcf.gz, using ```bcftools```

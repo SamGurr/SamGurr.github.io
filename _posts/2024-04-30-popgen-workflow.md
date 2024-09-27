@@ -168,7 +168,7 @@ bcftools convert -Oz -o outfilename.vcf.gz inputfilename.bcf
 2.b) Compress the vcf file to vcf.gz, using ```bcftools```
 
 ```
-bcftools sort input_file.vcf  -Oz -o input_file.vcf.gz
+bcftools sort input_file.vcf  -Oz -o output_file.vcf.gz
 ```
 
 3) Create an index of the compressed vcf.gz file, using ```bcftools```
@@ -236,9 +236,18 @@ ls -lh *.vcf.gz
 	- this prints each line of the vcf 
 	
 	- note: compare this to the number of lines in the geno.gz file output by ```angsd```, should be exactly the same!
+	
 
 ```
 bcftools view -H <filename>vcf.gz | wc -l
+```
+
+* see the file names and order of files input 
+
+**NOTE** this is important for your poplation data, for instance if/when you merge/intersect files, you need to know the IDs!
+
+```
+bcftools query -l <input vcf file> > IDs.csv
 ```
 
 * take a look at the first five lines of data! 
@@ -302,6 +311,63 @@ And index it for downstream analysis
 ```
 bcftools index <subset output file>.vcf.gz
 ``` 
+
+### Subsetting the vcf file by a list of contigs or chromosomes
+
+
+**Objective** Now what if you only wnat to see your allele freqencies of a particular genomic location, contig list, 
+or chromosome. You can do this with the code below. In our efforts (as of 6/2024) we are using a highly fragemented 
+genome. I created a list of contigs that are larger than the N50 length (view on NCBI), the list 'Contig50.txt' is simply 
+a one-column text file with only the contig IDs and these match all the vcf.gz files' #CHROM ID. 
+
+**About** Below is the code I used to (i) pull contig-specific vcf files from the mater vcf.gz (ii) vgzip them 
+(iii) concatenate them back together as a vcf.gz file. 
+
+* First make a new directory where you want the files to belong when running the slurm script 
+
+*Note*: this folder will populate with as many files as there are rows in your text file with contigs/chromosoms IDs in the next step!
+this is why I make a folder for it.. keep the chaos contained 
+
+```
+mkdir contig_filt # make new directory 
+```
+
+* loop for every row of the contig file read and subset the vcf master file, name the vcf subset as the row ID (in this case 'CONTIG' 
+
+```
+cat Contig50.txt | while read CONTIG; do  
+	vcftools --gzvcf <master file>.vcf.gz --chr $CONTIG --recode --recode-INFO-all --out contig_filt/$CONTIG.out; 
+	done
+```
+
+* loop to run through each of the output vcf files from the loop above and compress them to .gz format
+
+```
+cat Contig50.txt | while read CONTIG; do 
+	bcftools sort contig_filt/$CONTIG.out.recode.vcf -Oz -o contig_filt/$CONTIG.vcf.gz;
+	done
+```
+
+* make a list containing all the zipped files for each contig 
+
+```
+ls *.gz  > filelist.txt
+```
+
+* concatenate all the files from the list and output 
+
+```
+bcftools concat -f filelist.txt -Oz -o <subset master file contigs filtered>.vcf.gz
+```
+
+* delete  all those files in the chaos folder..
+
+* all that will remain is your filtered vcf.gz 
+
+```
+rm contig_filt/Contig* # ommits the out.log and the vcf files
+rm contig_filt/filelist.txt
+```
 
 
 ### Analysis and diagnostics of vcf files (Pre-filtering!)

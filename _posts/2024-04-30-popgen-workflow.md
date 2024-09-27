@@ -194,8 +194,14 @@ exposed to two conditions, therefore 3 vcf.gz files deriving from three separate
 bcftools isec -n=3 parent.vcf.gz offspringA.vcf.gz offspringB.vcf.gz -p <dir>
 ```
 
-* What are the outputs here printed with ```-p``` in the specified directory? IMPORTANT! The internet really lacks detail here and I had to run 
-trail and error to learn really what this output is and how to manuputate the ```-n``` command suitable for my needs
+* What do the outputs by ```-p``` mean? IMPORTANT! The internet severely lacks detail about how to cater 
+a specific outcome from inputs in *isec*, I had to run a LOT of trial and error 
+
+	- to get all shared SNPs between input files, use  ```-n=``` as -n=<number of total files> 
+	
+	- to get all shared SNPs of each input vcf with the first input vcf, use  ```-n=``` as -n=<total linked files -1>; 
+	the first input vcf in your list is output as 0000.vcf and serves as the 'source' file of which each subsewent is subsetted for shared SNPs with it
+	you can check with bcftools view -H of the pre and post data to see which are the same and which files are shortened by this ```isec``` command
 
 *Output content: 
 	

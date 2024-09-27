@@ -2,7 +2,7 @@
 title: "invivo cytology ocean acidification plasticity"
 image:
   path: /images/invov_scallop_cell_OA.png
-  thumbnail:
+  thumbnail: /images/hemolymph_bayscallop.png
   caption: "cytology of scallop hemolymph"
 ---
 
